@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="linkedin.com/in/felipe-oliveira-fatec">
+  <a href="www.https://linkedin.com/in/felipe-oliveira-fatec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeoliveira92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveira92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
