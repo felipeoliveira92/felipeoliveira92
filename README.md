@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div><!--
   <a href="www.https://linkedin.com/in/felipe-oliveira-fatec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeoliveira92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeoliveira92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveira92&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>  
 
 <div> <br>
   <a href="https://instagram.com/_felipe.rabelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
