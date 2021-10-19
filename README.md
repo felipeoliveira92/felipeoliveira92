@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Vs" width="50" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://coffops.com/wp-content/uploads/2021/06/code_ozwVHSV.png" alt="VSCode" width="50" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://miro.medium.com/max/480/1*T-y7eiy0pc4vb0-6aGfIbQ.png" alt="EF" width="50" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="mssql" width="60" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://prismatic.io/docs/assets/images/icon-d4f90b229d508993f27f694e0db73c03.png" alt="mssql" width="40" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="msmana" width="70" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
