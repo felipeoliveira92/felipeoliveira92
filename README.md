@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://prismatic.io/docs/assets/images/icon-d4f90b229d508993f27f694e0db73c03.png" alt="mssql" width="40" height="50"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="msmana" width="70" height="40"/> </a>
 
-<a href="https://github.com/felipeoliveira92/felipeoliveira92" target="_blank"> 
-	<img alt="Felipe-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- </a>
+<a href="https://github.com/felipeoliveira92/felipeoliveira92" target="_blank">	<img alt="Felipe-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </a>
  
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
