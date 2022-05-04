@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" alt="msmana" width="70" height="40"/> </a>
 
 <a href="https://github.com/felipeoliveira92/felipeoliveira92" target="_blank"> 
-	<img align="center" alt="Saulo-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+	<img alt="Felipe-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </a>
  
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
