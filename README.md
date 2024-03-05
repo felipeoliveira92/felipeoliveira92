@@ -31,7 +31,7 @@
 <a href="" target="_blank">
   <img src="https://miro.medium.com/max/480/1*T-y7eiy0pc4vb0-6aGfIbQ.png" alt="EF" width="50" height="40"/>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="background-color: grey;">
   <img src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="40" height="50">
 </a>
 <a href="https://github.com/felipeoliveira92/felipeoliveira92" target="_blank">
